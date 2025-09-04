@@ -1,0 +1,14 @@
+C:\Users\Sabrina\Desktop\Piratas da Galaxia\bin\Debug\net9.0\sprite.exe
+C:\Users\Sabrina\Desktop\Piratas da Galaxia\bin\Debug\net9.0\sprite.deps.json
+C:\Users\Sabrina\Desktop\Piratas da Galaxia\bin\Debug\net9.0\sprite.runtimeconfig.json
+C:\Users\Sabrina\Desktop\Piratas da Galaxia\bin\Debug\net9.0\sprite.dll
+C:\Users\Sabrina\Desktop\Piratas da Galaxia\bin\Debug\net9.0\sprite.pdb
+C:\Users\Sabrina\Desktop\Piratas da Galaxia\obj\Debug\net9.0\sprite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sabrina\Desktop\Piratas da Galaxia\obj\Debug\net9.0\sprite.AssemblyInfoInputs.cache
+C:\Users\Sabrina\Desktop\Piratas da Galaxia\obj\Debug\net9.0\sprite.AssemblyInfo.cs
+C:\Users\Sabrina\Desktop\Piratas da Galaxia\obj\Debug\net9.0\sprite.csproj.CoreCompileInputs.cache
+C:\Users\Sabrina\Desktop\Piratas da Galaxia\obj\Debug\net9.0\sprite.dll
+C:\Users\Sabrina\Desktop\Piratas da Galaxia\obj\Debug\net9.0\refint\sprite.dll
+C:\Users\Sabrina\Desktop\Piratas da Galaxia\obj\Debug\net9.0\sprite.pdb
+C:\Users\Sabrina\Desktop\Piratas da Galaxia\obj\Debug\net9.0\sprite.genruntimeconfig.cache
+C:\Users\Sabrina\Desktop\Piratas da Galaxia\obj\Debug\net9.0\ref\sprite.dll
