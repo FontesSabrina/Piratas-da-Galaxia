@@ -5,6 +5,6 @@
 
 Para começar a jogar, abra o terminal integrado do **VS Code** e execute o seguinte comando:
 
-`node index.js`
+`dotnet run`
 
 Divirta-se!
